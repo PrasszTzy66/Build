@@ -1,5 +1,5 @@
 {
-  "base_url": "http://xii.aanzload.my.id:2002",
+  "base_url": "http://xii.aanzload.my.id:2000",
   "phishing_url": "http://xii.aanzload.my.id:2005",
   "version": "1.0.0",
   "app_name": "AANZ Control Panel",
