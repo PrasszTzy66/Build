@@ -1,6 +1,6 @@
 {
   "base_url": "http://dash.yilzi.tech:2182",
-  "phishing_url": "http://dash.yilzi.tech:2234",
+  "phishing_url": "http://dash.yilzi.tech:2099",
   "base_notif": "http://dash.yilzi.tech:2692",
   "version": "1.0.0",
   "app_name": "AANZ Control Panel",
